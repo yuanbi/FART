@@ -1,6 +1,6 @@
 # FART
 
-`ALiDriver:Files Backup/FART_VM AOSP 7.0_8.0/aosp 7.0_8.0.zip`
+`ALiDrive:Files Backup/FART_VM AOSP 7.0_8.0/aosp 7.0_8.0.zip`
 
 ART环境下基于主动调用的自动化脱壳方案，基于Android 6.0实现，理论上可以移植到任何ART系统上。具体原理和实现请移步看雪，系列文章共计3篇，对加固和对抗感兴趣的可以看看：
 
